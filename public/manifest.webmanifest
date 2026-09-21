@@ -1,0 +1,13 @@
+{
+  "name": "Chemistry Quiz BD",
+  "short_name": "Chem Quiz BD",
+  "description": "Class 9-10 Chemistry MCQ practice and exam app",
+  "lang": "bn-BD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
